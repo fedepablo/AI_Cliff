@@ -1,0 +1,19 @@
+
+APPENDIX: SIMULATION SUMMARY STATISTICS
+
+Total simulation runs: 10
+Total data points: 800
+Simulation period: 19 years
+Firms per simulation: 20
+
+BASELINE RESULTS (Mean ± SD):
+- Tier 3 firms: 11.10 ± 4.18
+- Innovation cliff indicator: 0.580 ± 0.317
+- Tier 3 success rate: 55.5%
+
+STATISTICAL SIGNIFICANCE:
+- Innovation cliff significance: p < 0.447
+- Sample size: 10 runs
+- Confidence level: 95%
+
+MODEL VALIDATION: PARTIAL

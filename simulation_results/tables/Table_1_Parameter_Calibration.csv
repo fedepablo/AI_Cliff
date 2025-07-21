@@ -1,0 +1,15 @@
+Category,Parameter,Value,Unit,Source
+Technology Scaling,Cost Scaling Exponent (γ),1.83,Dimensionless,"Kaplan et al. (2020), Hoffmann et al. (2022)"
+Technology Scaling,Compute Scaling Exponent,1.67,Dimensionless,Epoch AI Database (2024)
+Technology Scaling,Algorithm Efficiency Gain,30.0%,Annual,Sevilla et al. (2022)
+Knowledge Spillovers,Knowledge Diffusion Rate (μ),0.39,Annual,"Bloom et al. (2019), Akcigit & Kerr (2018)"
+Knowledge Spillovers,Patent Protection Period,18,Months,USPTO AI patent analysis
+Knowledge Spillovers,Talent Mobility Rate,35.0%,Annual,LinkedIn AI Talent Report (2024)
+Capability Tiers,Tier I Development Cost,$0.0M,USD,"OpenAI, Google disclosure analysis"
+Capability Tiers,Tier II Development Cost,$0.0M,USD,"Industry estimates, Epoch AI"
+Capability Tiers,Tier III Development Cost,$0M,USD,Projected scaling analysis
+Capability Tiers,Tier III Technical Risk,63.7%,Probability,"Expert elicitation, historical data"
+Firm Heterogeneity,Risk Aversion (Mean),0.65,Dimensionless,VC/Startup behavior literature
+Firm Heterogeneity,Discount Rate (Annual),12.0%,Annual,Corporate finance standards
+Policy Mechanisms,Subsidy Coverage Rate,65%,Percentage,"DARPA, NSF program analysis"
+Policy Mechanisms,APC Guarantee Multiplier,1.8x,Multiple,Government procurement literature

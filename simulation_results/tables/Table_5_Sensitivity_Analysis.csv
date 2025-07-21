@@ -1,0 +1,16 @@
+Output Metric,Parameter,First-Order Index,Total-Order Index,Interaction Effects,Importance Rank
+Final Tier3 Firms,Technical Risk Tier3,0.523,0.675,0.152,1
+Final Tier3 Firms,Knowledge Diffusion Rate,0.382,0.506,0.125,2
+Final Tier3 Firms,Technical Risk Tier4,-0.042,0.123,0.165,3
+Final Tier3 Firms,Market Size Tier3 Millions,-0.017,0.116,0.133,4
+Final Tier3 Firms,Risk Aversion Mean,0.057,0.041,-0.016,5
+Innovation Cliff Indicator,Knowledge Diffusion Rate,0.465,0.644,0.179,1
+Innovation Cliff Indicator,Technical Risk Tier3,0.368,0.563,0.195,2
+Innovation Cliff Indicator,Technical Risk Tier4,-0.041,0.196,0.238,3
+Innovation Cliff Indicator,Market Size Tier3 Millions,-0.026,0.140,0.166,4
+Innovation Cliff Indicator,Exclusivity Months Tier3,-0.011,0.103,0.114,5
+Total Rd Investment,Apc Guarantee Multiplier,-0.060,0.921,0.982,1
+Total Rd Investment,Risk Aversion Mean,-0.060,0.913,0.973,2
+Total Rd Investment,Subsidy Coverage Rate,-0.060,0.911,0.971,3
+Total Rd Investment,Hardware Efficiency Annual,-0.059,0.886,0.945,4
+Total Rd Investment,Algorithm Efficiency Annual,-0.059,0.885,0.944,5

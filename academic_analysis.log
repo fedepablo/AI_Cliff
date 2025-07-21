@@ -438,3 +438,306 @@
 2025-07-21 18:12:58,810 - INFO - run_robustness_checks - Robustness analysis saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\validation\robustness_analysis_report.json
 2025-07-21 18:12:58,812 - INFO - create_replication_package - Creando package de replicación...
 2025-07-21 18:12:59,468 - INFO - create_replication_package - Replication package created with 5 files
+2025-07-21 18:35:48,476 - INFO - <module> - Marco académico inicializado exitosamente con nueva estructura
+2025-07-21 18:35:48,573 - INFO - load_and_process_epoch_data - Starting academic data loading and processing
+2025-07-21 18:35:48,575 - ERROR - load_and_process_epoch_data - Data directory not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data
+2025-07-21 18:35:48,663 - INFO - <module> - Academic data validator initialized
+2025-07-21 18:35:48,848 - INFO - <module> - Statistical analysis framework initialized
+2025-07-21 18:35:49,011 - INFO - <module> - Enhanced causal inference framework initialized with genuine instruments
+2025-07-21 18:35:49,074 - INFO - <module> - Model comparability framework initialized
+2025-07-21 18:35:49,144 - INFO - <module> - ============================================================
+2025-07-21 18:35:49,146 - INFO - <module> - ACADEMIC DATA LOADING AND PROCESSING
+2025-07-21 18:35:49,149 - INFO - <module> - ============================================================
+2025-07-21 18:35:49,152 - INFO - load_and_process_epoch_data - Starting academic data loading and processing
+2025-07-21 18:35:49,155 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\ml_models.csv
+2025-07-21 18:35:49,157 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\organizations.csv
+2025-07-21 18:35:49,160 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\model_versions.csv
+2025-07-21 18:35:49,161 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\ml_hardware.csv
+2025-07-21 18:35:49,164 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\benchmarks_scores.csv
+2025-07-21 18:35:49,169 - INFO - load_and_process_epoch_data - Data loading complete. Successfully loaded 0 datasets
+2025-07-21 18:35:49,171 - INFO - create_analysis_dataset - Creating comprehensive analysis dataset
+2025-07-21 18:35:49,173 - ERROR - <module> - Data loading failed: ml_models dataset required for analysis
+2025-07-21 18:36:15,062 - INFO - <module> - Marco académico inicializado exitosamente con nueva estructura
+2025-07-21 18:36:48,339 - INFO - <module> - Marco académico inicializado exitosamente con nueva estructura
+2025-07-21 18:36:48,486 - INFO - load_and_process_epoch_data - Starting academic data loading and processing
+2025-07-21 18:36:48,570 - INFO - load_and_process_epoch_data - Successfully loaded benchmarks_runs: 418 rows
+2025-07-21 18:36:48,605 - INFO - load_and_process_epoch_data - Successfully loaded benchmarks_scores: 626 rows
+2025-07-21 18:36:48,623 - INFO - load_and_process_epoch_data - Successfully loaded benchmarks_tasks: 8 rows
+2025-07-21 18:36:48,692 - INFO - load_and_process_epoch_data - Successfully loaded chip_dataset: 5773 rows
+2025-07-21 18:36:48,713 - INFO - load_and_process_epoch_data - Successfully loaded countries: 248 rows
+2025-07-21 18:36:48,747 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_aider_polyglot: 57 rows
+2025-07-21 18:36:48,756 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_balrog: 24 rows
+2025-07-21 18:36:48,778 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_cybench: 12 rows
+2025-07-21 18:36:48,787 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_factorio_learning_environment: 9 rows
+2025-07-21 18:36:48,813 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_fictionlivebench: 42 rows
+2025-07-21 18:36:48,824 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_geobench: 31 rows
+2025-07-21 18:36:48,831 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_metr_horizon_lengths: 16 rows
+2025-07-21 18:36:48,838 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_os_world: 44 rows
+2025-07-21 18:36:48,844 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_simplebench: 37 rows
+2025-07-21 18:36:48,866 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_vpct: 17 rows
+2025-07-21 18:36:48,874 - INFO - load_and_process_epoch_data - Successfully loaded external_benchmark_weirdml: 44 rows
+2025-07-21 18:36:48,922 - INFO - load_and_process_epoch_data - Successfully loaded ml_domains: 23 rows
+2025-07-21 18:36:49,081 - INFO - load_and_process_epoch_data - Successfully loaded ml_models: 3018 rows
+2025-07-21 18:36:49,124 - INFO - load_and_process_epoch_data - Successfully loaded ml_tasks: 221 rows
+2025-07-21 18:36:49,159 - INFO - load_and_process_epoch_data - Successfully loaded model_versions: 440 rows
+2025-07-21 18:36:49,185 - INFO - load_and_process_epoch_data - Successfully loaded organizations: 1210 rows
+2025-07-21 18:36:49,274 - INFO - load_and_process_epoch_data - Data loading complete. Successfully loaded 21 datasets
+2025-07-21 18:36:49,372 - INFO - <module> - Academic data validator initialized
+2025-07-21 18:36:49,464 - INFO - <module> - Statistical analysis framework initialized
+2025-07-21 18:36:49,583 - INFO - <module> - Enhanced causal inference framework initialized with genuine instruments
+2025-07-21 18:36:49,685 - INFO - <module> - Model comparability framework initialized
+2025-07-21 18:36:49,746 - INFO - <module> - ============================================================
+2025-07-21 18:36:49,748 - INFO - <module> - ACADEMIC DATA LOADING AND PROCESSING
+2025-07-21 18:36:49,750 - INFO - <module> - ============================================================
+2025-07-21 18:36:49,753 - INFO - load_and_process_epoch_data - Starting academic data loading and processing
+2025-07-21 18:36:49,858 - INFO - comprehensive_data_audit - Starting comprehensive audit of dataset with 3018 observations
+2025-07-21 18:36:50,005 - INFO - comprehensive_data_audit - Data audit complete. Overall quality score: 0.660
+2025-07-21 18:36:50,006 - INFO - load_and_process_epoch_data - Loaded ml_models: 3018 rows, quality score: 0.660
+2025-07-21 18:36:50,015 - INFO - comprehensive_data_audit - Starting comprehensive audit of dataset with 1210 observations
+2025-07-21 18:36:50,076 - INFO - comprehensive_data_audit - Data audit complete. Overall quality score: 0.660
+2025-07-21 18:36:50,077 - INFO - load_and_process_epoch_data - Loaded organizations: 1210 rows, quality score: 0.660
+2025-07-21 18:36:50,087 - INFO - comprehensive_data_audit - Starting comprehensive audit of dataset with 440 observations
+2025-07-21 18:36:50,173 - INFO - comprehensive_data_audit - Data audit complete. Overall quality score: 0.660
+2025-07-21 18:36:50,175 - INFO - load_and_process_epoch_data - Loaded model_versions: 440 rows, quality score: 0.660
+2025-07-21 18:36:50,176 - ERROR - load_and_process_epoch_data - File not found: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\Epoch.AI\benchmark_data\ml_hardware.csv
+2025-07-21 18:36:50,183 - INFO - comprehensive_data_audit - Starting comprehensive audit of dataset with 626 observations
+2025-07-21 18:36:50,723 - INFO - comprehensive_data_audit - Data audit complete. Overall quality score: 0.936
+2025-07-21 18:36:50,724 - INFO - load_and_process_epoch_data - Loaded benchmarks_scores: 626 rows, quality score: 0.936
+2025-07-21 18:36:50,729 - INFO - load_and_process_epoch_data - Data loading complete. Successfully loaded 4 datasets
+2025-07-21 18:36:50,730 - INFO - create_analysis_dataset - Creating comprehensive analysis dataset
+2025-07-21 18:36:50,772 - INFO - comprehensive_data_audit - Starting comprehensive audit of dataset with 3018 observations
+2025-07-21 18:36:51,207 - INFO - comprehensive_data_audit - Data audit complete. Overall quality score: 0.424
+2025-07-21 18:36:51,208 - INFO - create_analysis_dataset - Analysis dataset created: 3018 observations
+2025-07-21 18:36:51,210 - INFO - create_analysis_dataset - Final quality score: 0.424
+2025-07-21 18:36:51,505 - INFO - comprehensive_missing_data_analysis - Ejecutando análisis comprehensivo de missing data...
+2025-07-21 18:36:51,710 - INFO - intelligent_imputation_strategy - Ejecutando estrategia de imputación inteligente...
+2025-07-21 18:36:51,717 - INFO - _impute_parameters_scaling_laws - Imputando parameter count usando scaling laws...
+2025-07-21 18:36:52,173 - INFO - _impute_parameters_scaling_laws - Imputados 326 parameter counts usando scaling laws
+2025-07-21 18:36:52,177 - INFO - _impute_training_compute - Imputando training compute usando relaciones empíricas...
+2025-07-21 18:36:52,657 - INFO - _impute_training_compute - Imputados 1165 training compute values
+2025-07-21 18:36:52,660 - INFO - _impute_training_costs - Imputando training costs usando compute estimates...
+2025-07-21 18:36:53,191 - INFO - _impute_training_costs - Imputados 2215 training cost values
+2025-07-21 18:36:53,194 - INFO - _mice_imputation - Ejecutando MICE imputation...
+2025-07-21 18:36:53,202 - INFO - _mice_imputation - Aplicando MICE a 12 columnas numéricas
+2025-07-21 18:36:53,286 - INFO - _mice_imputation - MICE completado: 12473 valores imputados
+2025-07-21 18:36:53,288 - INFO - _validate_imputation_quality - Validando calidad de imputación...
+2025-07-21 18:36:53,447 - INFO - <module> - Imputation framework applied successfully
+2025-07-21 18:36:53,473 - INFO - aggressive_imputation_academic - Iniciando imputación agresiva académica...
+2025-07-21 18:36:53,542 - INFO - aggressive_imputation_academic - Post-organizational patterns: 43626 missing (1356 imputados)
+2025-07-21 18:36:53,564 - INFO - aggressive_imputation_academic - Post-temporal interpolation: 33604 missing (10022 imputados)
+2025-07-21 18:36:54,774 - INFO - aggressive_imputation_academic - Post-cluster imputation: 33604 missing (0 imputados)
+2025-07-21 18:36:54,792 - INFO - aggressive_imputation_academic - Post-regression imputation: 33604 missing (0 imputados)
+2025-07-21 18:36:54,866 - INFO - aggressive_imputation_academic - Post-domain rules: 2840 missing (30764 imputados)
+2025-07-21 18:36:55,554 - INFO - run_scaling_laws_analysis - ============================================================
+2025-07-21 18:36:55,556 - INFO - run_scaling_laws_analysis - SCALING LAWS ANALYSIS
+2025-07-21 18:36:55,558 - INFO - run_scaling_laws_analysis - ============================================================
+2025-07-21 18:36:55,560 - INFO - run_scaling_laws_analysis - Analyzing Parameters vs Training Compute scaling
+2025-07-21 18:36:55,563 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:36:55,580 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:36:55,601 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:36:56,615 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:36:56,616 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:36:56,627 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:36:56,629 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:03,713 - INFO - _generate_scaling_table - Scaling table saved to j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\tables\scaling_table_parameters_vs_training_compute.txt
+2025-07-21 18:37:03,714 - INFO - run_scaling_laws_analysis - Analyzing Parameters vs Training Cost scaling
+2025-07-21 18:37:03,716 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute cost (2023 USD) ~ Parameters
+2025-07-21 18:37:03,730 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:03,812 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:03,974 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:03,975 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:03,984 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:03,985 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:08,935 - INFO - _generate_scaling_table - Scaling table saved to j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\tables\scaling_table_parameters_vs_training_cost.txt
+2025-07-21 18:37:08,936 - INFO - _analyze_temporal_scaling_trends - Analyzing temporal trends in scaling laws
+2025-07-21 18:37:08,978 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:08,985 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1986-1989: Insufficient observations for reliable estimation: n=6
+2025-07-21 18:37:08,988 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:08,993 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1987-1990: Insufficient observations for reliable estimation: n=9
+2025-07-21 18:37:08,995 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,002 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1988-1991: Insufficient observations for reliable estimation: n=9
+2025-07-21 18:37:09,004 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,010 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1989-1992: Insufficient observations for reliable estimation: n=9
+2025-07-21 18:37:09,012 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,024 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1990-1993: Insufficient observations for reliable estimation: n=7
+2025-07-21 18:37:09,026 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,031 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1991-1994: Insufficient observations for reliable estimation: n=6
+2025-07-21 18:37:09,035 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,039 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1992-1995: Insufficient observations for reliable estimation: n=10
+2025-07-21 18:37:09,043 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,048 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1993-1996: Insufficient observations for reliable estimation: n=8
+2025-07-21 18:37:09,053 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,058 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1994-1997: Insufficient observations for reliable estimation: n=8
+2025-07-21 18:37:09,061 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,068 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1995-1998: Insufficient observations for reliable estimation: n=5
+2025-07-21 18:37:09,070 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,075 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1996-1999: Insufficient observations for reliable estimation: n=6
+2025-07-21 18:37:09,079 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,085 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1997-2000: Insufficient observations for reliable estimation: n=7
+2025-07-21 18:37:09,087 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,093 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1998-2001: Insufficient observations for reliable estimation: n=7
+2025-07-21 18:37:09,096 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,102 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 1999-2002: Insufficient observations for reliable estimation: n=6
+2025-07-21 18:37:09,104 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,110 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2000-2003: Insufficient observations for reliable estimation: n=3
+2025-07-21 18:37:09,112 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,120 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2001-2004: Insufficient observations for reliable estimation: n=3
+2025-07-21 18:37:09,124 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,128 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2002-2005: Insufficient observations for reliable estimation: n=5
+2025-07-21 18:37:09,131 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,139 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2003-2006: Insufficient observations for reliable estimation: n=7
+2025-07-21 18:37:09,142 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,147 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2004-2007: Insufficient observations for reliable estimation: n=7
+2025-07-21 18:37:09,152 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,157 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2005-2008: Insufficient observations for reliable estimation: n=6
+2025-07-21 18:37:09,160 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,164 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2006-2009: Insufficient observations for reliable estimation: n=5
+2025-07-21 18:37:09,169 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,176 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2007-2010: Insufficient observations for reliable estimation: n=10
+2025-07-21 18:37:09,178 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,186 - WARNING - _analyze_temporal_scaling_trends - Failed to analyze period 2008-2011: Insufficient observations for reliable estimation: n=16
+2025-07-21 18:37:09,188 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:09,196 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:09,204 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:09,206 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:09,207 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:09,214 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:09,216 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:13,755 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:13,764 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:13,774 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:13,777 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:13,778 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:13,785 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:13,787 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:18,134 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:18,144 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:18,153 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:18,157 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:18,158 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:18,168 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:18,169 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:23,689 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:23,698 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:23,707 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:23,719 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:23,720 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:23,728 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:23,730 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:28,644 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:28,653 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:28,660 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:28,676 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:28,678 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:28,685 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:28,686 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:33,156 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:33,165 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:33,175 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:33,204 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:33,205 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:33,212 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:33,213 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:39,835 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:39,847 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:39,857 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:39,937 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:39,938 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:39,948 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:39,951 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:44,957 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:44,969 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:44,979 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:45,064 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:45,065 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:45,073 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:45,075 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:50,191 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:50,201 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:50,210 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:50,310 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:50,311 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:50,321 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:50,323 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:37:55,931 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:37:55,941 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:37:55,957 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:37:56,077 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:37:56,079 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:37:56,086 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:37:56,087 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:38:04,336 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:38:04,355 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:38:04,377 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:38:04,704 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:38:04,706 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:38:04,716 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:38:04,720 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:38:16,414 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:38:16,440 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:38:16,476 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:38:17,093 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:38:17,099 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:38:17,114 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:38:17,116 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:38:33,478 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:38:33,497 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:38:33,516 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:38:34,079 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:38:34,081 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:38:34,090 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:38:34,091 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:38:47,960 - INFO - estimate_scaling_laws_rigorously - Estimating scaling laws: Training compute (FLOP) ~ Parameters
+2025-07-21 18:38:47,978 - INFO - estimate_scaling_laws_rigorously - Completed log_log estimation
+2025-07-21 18:38:47,994 - INFO - estimate_scaling_laws_rigorously - Completed power_law estimation
+2025-07-21 18:38:48,757 - INFO - estimate_scaling_laws_rigorously - Completed segmented estimation
+2025-07-21 18:38:48,758 - INFO - _select_best_model - Selected best model: log_log
+2025-07-21 18:38:48,776 - INFO - _bootstrap_estimation - Starting bootstrap estimation with 1000 iterations
+2025-07-21 18:38:48,779 - INFO - _bootstrap_estimation - Bootstrap iteration 0/1000
+2025-07-21 18:38:59,110 - INFO - _analyze_temporal_scaling_trends - Temporal analysis complete: 14 windows analyzed
+2025-07-21 18:38:59,111 - INFO - _analyze_temporal_scaling_trends - Scaling exponent trend correlation: 0.902 (p=0.000)
+2025-07-21 18:38:59,132 - INFO - _generate_scaling_report - Comprehensive scaling report saved
+2025-07-21 18:38:59,422 - INFO - run_diffusion_analysis_simplified - ============================================================
+2025-07-21 18:38:59,423 - INFO - run_diffusion_analysis_simplified - DIFFUSION ANALYSIS - ENHANCED VERSION
+2025-07-21 18:38:59,425 - INFO - run_diffusion_analysis_simplified - ============================================================
+2025-07-21 18:38:59,428 - INFO - run_diffusion_analysis_simplified - 🚀 Identifying model pairs using ULTRA-PERMISSIVE approach...
+2025-07-21 18:38:59,429 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 🚀 Usando identificación ULTRA-PERMISIVA para maximizar sample size...
+2025-07-21 18:38:59,724 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📊 Modelos propietarios: 92
+2025-07-21 18:38:59,725 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📊 Modelos abiertos/semi-abiertos: 2911
+2025-07-21 18:38:59,727 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 🔍 Analyzing 92 proprietary vs 2911 open models
+2025-07-21 18:39:00,479 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - ⚠️ Reached safety limit of 1000 pairs
+2025-07-21 18:39:00,481 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📈 Pares identificados antes de filtrado: 1322
+2025-07-21 18:39:00,504 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - ✅ Pares finales después de filtrado mínimo: 1322
+2025-07-21 18:39:00,506 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📊 Lag range: 0.1 - 60.0 months
+2025-07-21 18:39:00,508 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📊 Mean lag: 34.3 months
+2025-07-21 18:39:00,511 - INFO - identify_model_pairs_ULTRA_PERMISSIVE - 📊 Similarity range: 0.35 - 0.80
+2025-07-21 18:39:00,518 - INFO - run_diffusion_analysis_simplified - ✅ Found 1322 comparable pairs
+2025-07-21 18:39:00,520 - INFO - run_diffusion_analysis_simplified - 🏆 EXCELLENT: n≥30, sufficient for robust analysis
+2025-07-21 18:39:00,523 - INFO - run_diffusion_analysis_simplified - 📊 Analyzing diffusion patterns...
+2025-07-21 18:39:00,524 - INFO - analyze_diffusion_patterns_simplified - 📊 Analyzing patterns for 1322 pairs
+2025-07-21 18:39:00,554 - INFO - run_diffusion_analysis_simplified - ✅ Diffusion patterns analysis complete
+2025-07-21 18:39:00,555 - INFO - run_diffusion_analysis_simplified - 📈 Analyzing temporal trends...
+2025-07-21 18:39:00,556 - INFO - analyze_temporal_trends_simplified - 📈 Analyzing temporal trends...
+2025-07-21 18:39:00,593 - INFO - run_diffusion_analysis_simplified - ✅ Temporal trends analysis complete
+2025-07-21 18:39:00,594 - INFO - run_diffusion_analysis_simplified - 🔬 Running enhanced causal analysis...
+2025-07-21 18:39:00,596 - INFO - run_simplified_causal_analysis - 🔬 Running enhanced causal analysis...
+2025-07-21 18:39:00,819 - INFO - run_simplified_causal_analysis - ✅ DiD analysis completed for log_parameters
+2025-07-21 18:39:00,857 - INFO - run_simplified_causal_analysis - ✅ DiD analysis completed for log_params_alt
+2025-07-21 18:39:00,874 - INFO - run_simplified_causal_analysis - ✅ Enhanced matched comparison completed
+2025-07-21 18:39:00,878 - INFO - run_diffusion_analysis_simplified - ✅ Causal analysis complete
+2025-07-21 18:39:00,883 - INFO - _generate_diffusion_report_enhanced - Enhanced diffusion report saved
+2025-07-21 18:39:01,341 - INFO - <module> - Academic visualization framework initialized
+2025-07-21 18:39:01,343 - INFO - create_scaling_law_figure - Creating scaling law visualization
+2025-07-21 18:39:06,113 - INFO - create_scaling_law_figure - Scaling law figure saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\figures\Figure_01_Scaling_Laws.png
+2025-07-21 18:39:08,335 - INFO - create_diffusion_analysis_figure - Creating diffusion analysis visualization
+2025-07-21 18:39:11,964 - INFO - create_diffusion_analysis_figure - Diffusion analysis figure saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\figures\Figure_02_Diffusion_Analysis.png
+2025-07-21 18:39:13,822 - INFO - create_summary_statistics_table - Generando tabla de estadísticas descriptivas...
+2025-07-21 18:39:13,850 - INFO - create_summary_statistics_table - Summary statistics table saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\tables\Table_01_Summary_Statistics.txt
+2025-07-21 18:39:13,851 - INFO - create_parameter_estimates_table - Generando tabla de estimaciones de parámetros...
+2025-07-21 18:39:13,857 - INFO - create_parameter_estimates_table - Parameter estimates table saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\tables\Table_02_Parameter_Estimates.txt
+2025-07-21 18:39:13,859 - INFO - run_robustness_checks - Ejecutando análisis de robustez...
+2025-07-21 18:39:14,261 - INFO - run_robustness_checks - Robustness analysis saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\validation\robustness_analysis_report.json
+2025-07-21 18:39:14,264 - INFO - create_replication_package - Creando package de replicación...
+2025-07-21 18:39:15,084 - INFO - create_replication_package - Replication package created with 5 files
+2025-07-21 18:39:15,088 - INFO - generate_executive_summary - Generando resumen ejecutivo...
+2025-07-21 18:39:15,093 - INFO - generate_executive_summary - Executive summary saved: j:\OneDrive - Universidad de Alcala\Research\Macroeconomics\AI Sector\AI_Cliff\AI_Cliff\academic_outputs\tables\Executive_Summary.txt

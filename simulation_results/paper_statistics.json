@@ -1,0 +1,48 @@
+{
+  "simulation_scope": {
+    "total_simulation_runs": 10,
+    "total_data_points": 800,
+    "simulation_years": 19,
+    "firms_per_simulation": 20,
+    "total_firm_years": 16000
+  },
+  "baseline_outcomes": {
+    "final_tier1_firms": 2.8,
+    "final_tier2_firms": 6.1,
+    "final_tier3_firms": 11.1,
+    "final_tier4_firms": 0.0,
+    "innovation_cliff_severity": 0.5796428571428571,
+    "tier3_success_rate_percent": 55.49999999999999,
+    "total_rd_investment_billions": 6.981850226098575,
+    "market_concentration_hhi": 0.1039198603443419
+  },
+  "policy_effectiveness": {
+    "subsidy": {
+      "tier3_improvement_percent": 67.02702702702702,
+      "final_tier3_firms": 18.54,
+      "cliff_reduction": 0.33264285714285713
+    },
+    "advanced_purchase_commitment": {
+      "tier3_improvement_percent": 67.2072072072072,
+      "final_tier3_firms": 18.56,
+      "cliff_reduction": 0.3721428571428571
+    },
+    "tax_credit": {
+      "tier3_improvement_percent": 68.46846846846847,
+      "final_tier3_firms": 18.7,
+      "cliff_reduction": 0.37847619047619047
+    }
+  },
+  "timing_analysis": {
+    "optimal_activation_year": 1,
+    "optimal_effectiveness": 20,
+    "worst_activation_year": 8,
+    "worst_effectiveness": 12,
+    "effectiveness_decay_percent": 40.0
+  },
+  "statistical_tests": {
+    "cliff_significance": 0.4469857062646545,
+    "sample_size": 10,
+    "confidence_level": 0.95
+  }
+}
